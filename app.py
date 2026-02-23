@@ -8,7 +8,7 @@ st.set_page_config(page_title="DIGITAL BANK MANAGEMENT SYSTEM", layout="wide")
 
 st.markdown("""
 <style>
-/* FORCE WHITE BACKGROUND */
+/* FORCE BLACK BACKGROUND */
 html, body, [class*="css"]  {
     background-color: #0A0F1C !important;
     color: white !important;
@@ -36,3 +36,4 @@ input, textarea {
 }
 </style>
 """, unsafe_allow_html=True)
+
